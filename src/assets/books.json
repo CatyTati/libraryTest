@@ -1,0 +1,41 @@
+[
+    {
+       "Author":"Tom Ellen",
+       "Book":"A Totally Awkward Love Story",
+       "Date":"05.03.2016",
+       "CatalogId":"111",
+       "Path":""
+    }
+    ,
+    {
+        "Author":"Gayle Forman",
+        "Book":"Where She Went",
+        "Date":"07.04.2012",
+        "CatalogId":"222",
+        "Path":""
+     }
+     ,
+     {
+        "Author":"Lauren Kate",
+        "Book":"Unforgiven",
+        "Date":"08.11.2016",
+        "CatalogId":"333",
+        "Path":""
+     }
+     ,
+     {
+        "Author":"Lauren Kate",
+        "Book":"Water Fall",
+        "Date":"08.12.2015",
+        "CatalogId":"444",
+        "Path":""
+     }
+     ,
+     {
+        "Author":"Julie Buxbaum",
+        "Book":"The Opposite Of Love",
+        "Date":"09.06.2009",
+        "CatalogId":"555",
+        "Path":""
+     }
+]
